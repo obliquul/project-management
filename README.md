@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/obliquus-dev/script-public">
-    <img src="images/logo.png" alt="Logo" height="150">
+    <img src="images/icon.png" alt="Logo" height="200">
   </a>
 
 <h3 align="center">// script</h3>
