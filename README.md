@@ -11,21 +11,14 @@
 
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![React][React.js]][React-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Realm][Realm]][Realm-url]
+[![Sketch][Sketch]][Sketch-url]
+[![Swift][Swift]][Swift-url]
 
 
 <!-- PROJECT LOGO -->
@@ -35,7 +28,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">// script</h3>
 
   <p align="center">
     project_description
@@ -211,8 +204,10 @@ Project Link: [https://github.com/obliquus-dev/script-public](https://github.com
 [issues-url]: https://github.com/obliquus-dev/script-public/issues
 [license-shield]: https://img.shields.io/github/license/obliquus-dev/script-public.svg?style=flat
 [license-url]: https://github.com/obliquus-dev/script-public/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[React.js]: https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[Realm]: https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white
+[Realm-url]: https://realm.io/
+[Sketch]: https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black
+[Sketch-url]: https://www.sketch.com/
+[Swift]: https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white
+[Swift-url]: https://www.swift.org/
