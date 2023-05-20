@@ -31,13 +31,8 @@
 <h3 align="center">// script</h3>
 
   <p align="center">
-    project_description
+    Coming Soon..
     <br />
-    <a href="https://github.com/obliquus-dev/script-public"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/obliquus-dev/script-public">View Demo</a>
-    ·
     <a href="https://github.com/obliquus-dev/script-public">Report Bug</a>
     ·
     <a href="https://github.com/obliquus-dev/script-public">Request Feature</a>
