@@ -3,16 +3,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/obliquus-dev/script-public">
-    <img src="images/icon.png" alt="Logo" height="200">
-  </a>
-</div>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
