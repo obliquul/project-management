@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 email: hello@obliquus.dev
 
-web: [script.obliquus.dev](https://script.obliquus.dev)
+web: [script.obliquus.dev](https://obliquus.dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
